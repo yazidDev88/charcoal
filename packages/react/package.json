@@ -49,7 +49,7 @@
   },
   "dependencies": {
     "@charcoal-ui/foundation": "^3.11.0",
-    "@charcoal-ui/icons": "^3.11.0",
+    "@charcoal-ui/icons": "^1.0.0",
     "@charcoal-ui/styled": "^3.11.0",
     "@charcoal-ui/theme": "^3.11.0",
     "@charcoal-ui/utils": "^3.11.0",
